@@ -1,1 +1,1 @@
-# Churn-Analysis
+Conducted end-to-end Exploratory Data Analysis (EDA) to identify key customer churn indicators, leveraging these insights to develop a targeted predictive model. Successfully deployed the model in a web apllication using Flask to proactively identify customers at risk of churn, enabling strategic intervention and retention efforts.
